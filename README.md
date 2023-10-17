@@ -22,6 +22,18 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
 </p>
 
+<br>
+
+  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from America.
+  
+  - :telescope: I’m working towards my first Software Engineer role in either frontend or backend building web applications.
+  
+  - :seedling: Intermediate-Advanced Coder
+  
+  - :superhero_man: In my free time, I solve problems on CodeWars and LeetCode, and build websites.
+
+<br>
+
 ![Codewars](https://www.codewars.com/users/TopGameDev/badges/large)
 <br>
 ![Codewars2](https://github.r2v.ch/codewars?user=TopGameDev&stroke=COLOR)
