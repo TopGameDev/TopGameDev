@@ -40,8 +40,6 @@
 ![Codewars](https://www.codewars.com/users/TopGameDev/badges/large)
 <br>
 ![Codewars2](https://github.r2v.ch/codewars?user=TopGameDev&stroke=COLOR)
-![github stats](https://github-readme-stats.vercel.app/api?username=TopGameDev&theme=vision-friendly-dark)
-<br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TopGameDev&theme=great-gatsby)](https://git.io/streak-stats)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TopGameDev&layout=compact&theme=vision-friendly-dark)
