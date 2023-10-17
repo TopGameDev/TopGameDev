@@ -38,6 +38,10 @@
   - :superhero_man: In my free time, I solve problems on CodeWars and LeetCode, and build websites.
 
 <br>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="200"/>
+</div>
+<br>
 
 ![Codewars](https://www.codewars.com/users/TopGameDev/badges/large)
 <br>
