@@ -31,7 +31,7 @@
 
   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   
-  - :telescope: I’m working towards my first Software Engineer role in either frontend or backend web/application development.
+  - :telescope: Working towards my first Software Engineer role in either frontend or backend web/application development.
   
   - :seedling: Intermediate-Advanced Coder
   
