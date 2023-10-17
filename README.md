@@ -29,7 +29,7 @@
 
 <br>
 
-  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from America.
+  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   
   - :telescope: I’m working towards my first Software Engineer role in either frontend or backend web/application development.
   
